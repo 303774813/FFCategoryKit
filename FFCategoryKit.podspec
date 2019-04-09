@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 FFCategoryKitFFCategoryKitFFCategoryKit
                        DESC
 
-  s.homepage         = 'https://blog.csdn.net/zhaojinqiang12/article/details/80211057'
+  s.homepage         = 'https://github.com/303774813/FFCategoryKit'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { '303774813' => 'wangchao7@yiche.com' }
